@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedaleezhassan" alt="syedaleezhassan" /></a> </p>
 
+- 💬 Ask me about **Mobile App Development**
+  
 - 🔭 I’m currently working on **A Fitness App**
 
-- 🌱 I’m currently learning **Fast API in Python**
+- 🌱 I’m currently learning **Fast API & Game Development**
 
-- 💬 Ask me about **Mobile App Dev**
+- 📈 Make Mobile App for your business with me
 
 - 📫 How to reach me **https://www.linkedin.com/in/syed-aleez-hassan-846b56224**
 
